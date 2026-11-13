@@ -1,0 +1,9 @@
+All models in this folder are by Quaternius (https://quaternius.com) and are released under CC0 1.0
+(public domain dedication, https://creativecommons.org/publicdomain/zero/1.0/).
+
+  Deer, Stag, Fox, Wolf, Horse_White, Cow, ShibaInu   Ultimate Animated Animal Pack
+  Orc, Demon                                           Ultimate Monsters (animations trimmed with tools/strip_glb.py)
+  Chest_Closed, Chest_Open                             Ultimate RPG Pack
+
+Fetched as glTF from the public mirrors github.com/trebeljahr/quaternius-showcase and
+github.com/511action/descent-3d-assets.

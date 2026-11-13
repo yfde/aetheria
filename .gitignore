@@ -1,0 +1,7 @@
+# dev-only files stay local
+tools/
+server.py
+host.sh
+HOSTING.md
+__pycache__/
+*.pyc
